@@ -3,7 +3,7 @@ name: Build Mengnan for Windows
 on:
  push:
     branches: [master]
-  workflow_dispatch:
+ workflow_dispatch:
 
 jobs:
   windows:
